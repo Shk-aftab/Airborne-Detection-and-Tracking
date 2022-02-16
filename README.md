@@ -42,6 +42,7 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 
 <p align="center">
+  <br>
   <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/ds_tracking_test1.gif" width="640"/> 
   <br>
   <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/ds_tracking_test2.gif" width="640"/>
