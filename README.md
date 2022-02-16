@@ -49,3 +49,6 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
   <br>
 </p>
 
+## Credit
+[ultralytics](https://github.com/ultralytics/yolov5)
+[Mikel Brostrom](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
