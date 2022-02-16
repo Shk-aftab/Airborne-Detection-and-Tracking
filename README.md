@@ -38,16 +38,37 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 ## Tracking
 
-### Yolov5 + DeepSORT
+DeepSORT has performed accuracte as compared to SORT and Centroid Based Tracker(CBT). One common known drawback of SORT and CBT is that missed detections lead to inaccurate tracker.
+
+### DeepSORT
 
 
 <p align="center">
   <br>
   <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/ds_tracking_test1.gif" width="640"/> 
   <br>
-  <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/ds_tracking_test2.gif" width="640"/>
+</p>
+
+### SORT
+
+<p align="center">
+  <br>
+  <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/SORT.gif" width="640"/> 
   <br>
 </p>
+
+
+### Centroid Based Tracking
+
+<p align="center">
+  <br>
+  <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/centroidTracking.gif" width="640"/> 
+  <br>
+</p>
+
+
+### More Deep learning based Tracker results to come.
+
 
 ## Credit
 [ultralytics](https://github.com/ultralytics/yolov5)
