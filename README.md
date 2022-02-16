@@ -30,10 +30,12 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
   <br>
   <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/detection/test2.gif" width="640"/>
   <br>
-  <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/detection/bandra.gif" alt="animated" width="640" />
+  <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/detection/bandra.gif" alt="animated" width="640"/>
+  <br>
+   <em>Locally captured an aeroplane taking off</em>
   <br>
   
-  <em>Locally captured an aeroplane taking off</em>
+
 </p>
 
 ## Tracking
