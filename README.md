@@ -73,3 +73,4 @@ DeepSORT has performed accuracte as compared to SORT and Centroid Based Tracker(
 ## Credit
 [ultralytics](https://github.com/ultralytics/yolov5)
 [Mikel Brostrom](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
+[abewley](https://github.com/abewley/sort)
