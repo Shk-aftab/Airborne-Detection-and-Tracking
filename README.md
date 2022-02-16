@@ -35,7 +35,7 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 ## Tracking
 
-### Yolov5 + DeepSort
+### Yolov5 + DeepSORT
 
 <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/ds_tracking_test1.gif" width="495"/> <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/ds_tracking_test2.gif" width="495"/>
 
