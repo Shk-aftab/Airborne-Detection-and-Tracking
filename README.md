@@ -22,6 +22,18 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 ## Detection
 
+## Yolov5 - 0.995 mAP @0.5
+
+<img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/detection/test1.gif" width="500"/> <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/detection/test2.gif" width="500"/>
+
+
+<p align="center">
+  <img src="https://github.com/Shk-aftab/Airborne-Detection-and-Tracking/blob/main/assets/detection/bandra.gif" alt="animated" width="480" />
+  <br>
+  <em>Captured an aeroplane taking off</em>
+</p>
+
+
 
 
 
