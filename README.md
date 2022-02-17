@@ -38,7 +38,7 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 ## Tracking
 
-DeepSORT has performed accuracte as compared to SORT and Centroid Based Tracker(CBT). One common known drawback of SORT and CBT is that missed detections lead to inaccurate tracker.
+DeepSORT has out-performed as compared to SORT and Centroid Based Tracker(CBT). One common known drawback of SORT and CBT is that missed detections lead to inaccurate tracker.
 
 ### DeepSORT
 
