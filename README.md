@@ -22,7 +22,10 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 ## Detection
 
-## Yolov5 - 0.995 mAP @0.5
+### You can download model files from [here](https://drive.google.com/file/d/1cb2lwVEWcca-3texCG_fS5__sBoFt4DJ/view?usp=sharing)
+
+
+### Yolov5m6 - 0.995 mAP @0.5
 
 
 <p align="center">
