@@ -22,8 +22,9 @@ In total I collected 46314 Images each with a resolution of 2448 X 2048.
 
 ## Detection
 
-### You can download model files from [here](https://drive.google.com/file/d/1cb2lwVEWcca-3texCG_fS5__sBoFt4DJ/view?usp=sharing)
+##### You can download model files from [here](https://drive.google.com/file/d/1cb2lwVEWcca-3texCG_fS5__sBoFt4DJ/view?usp=sharing)
 
+##### Follow this [repo](https://github.com/ultralytics/yolov5/tree/v6.0) for traning and inference.
 
 ### Yolov5m6 - 0.995 mAP @0.5
 
